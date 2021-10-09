@@ -1,0 +1,25 @@
+.image {
+  display: block;
+  margin: auto;
+  width: 268px;
+  height: 151px;
+  background: url("https://66.media.tumblr.com/d535d0dec4a8ed75203bc4815534f12b/tumblr_inline_pbirlyhrXa1tf4yfp_540.gif")
+    0 0 no-repeat;
+  background-size: cover;
+  padding: 10px;
+}
+
+.innerdiv {
+  border: 1px solid white;
+  height: 100%;
+  width: 100%;
+}
+
+.letritas {
+  text-align: center;
+  letter-spacing: 0px;
+  font-family: "Birthstone Bounce", cursive;
+  font-size: 30px;
+  color: #000;
+  transition: all 1s;
+}
